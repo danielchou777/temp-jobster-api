@@ -1,0 +1,6 @@
+.env
+.vscode
+.eslintrc.js
+node_modules
+MOCK_DATA.json
+populate.js
